@@ -57,7 +57,7 @@ p{
     z-index: -1;
 }
 #sec .sec{
-    max-width: 100%;
+    max-width: 1200px;
     margin: 0;
     padding: 0 300px;
     justify-content: flex-start;
